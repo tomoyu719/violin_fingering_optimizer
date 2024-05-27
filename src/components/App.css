@@ -1,0 +1,39 @@
+.Title {
+  text-align: center;
+  /* width: 100vw; */
+  /* margin-left: auto;
+  margin-right: auto; */
+
+}
+
+.SheetMusic {
+  overflow-x: scroll;
+}
+
+.Inputs {
+  /* vertical-align: middle; */
+  /* bottom: 0; */
+  /* position: absolute; */
+  width: 100vw;
+}
+
+.Radios {
+  /* width: fit-content; */
+  /* background-color: red; */
+}
+
+.Buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.Button {
+  margin: 10px;
+}
+
+.Piano {
+  padding-top: 80px;
+  background-color: black;
+  overflow: scroll;
+  width: 100vw;
+}
